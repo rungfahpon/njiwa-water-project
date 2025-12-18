@@ -34,4 +34,4 @@ Njiwa faces severe water scarcity due to contaminated sources, insufficient publ
 - `/docs/` Project documentation
 
 ## Author
-Your Name
+Rungfah Phongphrit
